@@ -14,3 +14,7 @@ Working:
 https://github.com/Anirudh2465/Flask---Flutter-Integration/assets/110315983/a53e962f-7b9f-4793-9d05-145655309017
 
 GCP : https://cat-dog-classifier-using-flask-xisi3zlsna-el.a.run.app/upload
+
+h5 model link: https://huggingface.co/spaces/Sa-m/Dogs-vs-Cats/blob/main/best_model.h5
+
+docker image link: https://hub.docker.com/r/varrier0903/flask_docker
