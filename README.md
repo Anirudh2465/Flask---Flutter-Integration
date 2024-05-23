@@ -4,7 +4,7 @@ This project involves combinging a flutter app and a flask website hosted on doc
 This works by running the flutter app locally and the flask on a cloud based service. In this project we will be using Googles cloud based service.
 
 Working:
-1. Run the flutter app in andriod studio
+1. Run the flutter app in Visual Studio 
 2. select the image we want to classify
 3. the image is sent to the flask where classification happens and the result is sent back to flutter
 4. The output is shown in the flutter app.
